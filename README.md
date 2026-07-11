@@ -2,7 +2,7 @@
 
 **Author:** Shayan Rokhva
 
-**Includes: study of Kaggle gastrointestinal MRI data: image inspection, RLE mask reconstruction, case-level splitting, synchronized image–mask augmentation, memory-aware loading, transfer learning, training diagnostics, and segmentation evaluation**
+Developed a case-level MRI segmentation pipeline for large bowel, small bowel, and stomach segmentation using a U-Net with an ImageNet-pretrained EfficientNet-B1 encoder. The workflow included high-bit-depth image handling, RLE mask decoding, patient-level data splitting, joint image-mask augmentation, memory-efficient loading, hyperparameter exploration, and qualitative and quantitative evaluation. The model achieved an overall Dice score of approximately 0.794 on a held-out positive-slice test subset.
 
 ---
 
