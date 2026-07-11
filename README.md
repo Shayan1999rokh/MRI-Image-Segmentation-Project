@@ -1,8 +1,8 @@
 # MRI Image Segmentation
 
-**A complete study of Kaggle gastrointestinal MRI data: image inspection, RLE mask reconstruction, case-level splitting, synchronized image–mask augmentation, memory-aware loading, transfer learning, training diagnostics, and segmentation evaluation**
-
 **Author:** Shayan Rokhva
+
+**Includes: study of Kaggle gastrointestinal MRI data: image inspection, RLE mask reconstruction, case-level splitting, synchronized image–mask augmentation, memory-aware loading, transfer learning, training diagnostics, and segmentation evaluation**
 
 ---
 
